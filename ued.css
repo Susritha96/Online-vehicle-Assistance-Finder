@@ -1,8 +1,46 @@
 .form-horizontal{
     margin-top: 9%;
+   
 }
 body{
     background: url("img.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
 }
+.jumbotron{
+    margin-top: 8%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 20%;
+}
+#singlebutton2{
+    margin-top: -15%;
+   margin-left: 50% 
+}
+#singlebutton1{
+    margin-top: -15%;
+    margin-left: -50% 
+    
+ }
+ #singlebutton3{
+     margin-left: 300%;   
+ }
+ .container1{
+    margin-top: 8%;
+    margin-left: 10%;
+    margin-right: 20%;
+    margin-bottom: 20%;
+ }
+ .ued{
+    margin-left: 20%;
+ }
+ .tab-content{
+    margin-left: 40%; 
+ }
+ #admin{
+     margin-top:-5%;
+     margin-left: 20%;
+ }
+ #admin1{
+    margin-left:10%; 
+ }
